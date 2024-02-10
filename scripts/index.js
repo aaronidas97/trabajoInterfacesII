@@ -1,5 +1,5 @@
 
-import fetchDataFromUrl from "./razas.js";
+import {fetchDataFromUrl} from "./utils.js";
 
 document.addEventListener("DOMContentLoaded", () => {
 

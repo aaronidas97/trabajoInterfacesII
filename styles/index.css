@@ -1,0 +1,15 @@
+.card-body:hover{
+
+    background-color: #5a23c8;
+    color: white;
+  }
+  #section-background {
+    background-image: url('../img/imagenFondo.jpg');
+    background-size: cover; /* Esto hace que la imagen de fondo cubra todo el área de la sección */
+    background-position: center; /* Esto asegura que la imagen esté centrada */
+    /* Puedes agregar más propiedades CSS según sea necesario, como color de texto, etc. */
+  
+    height: fit-content;
+
+}
+  
