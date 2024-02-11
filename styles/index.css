@@ -12,4 +12,20 @@
     height: fit-content;
 
 }
-  
+
+img{
+  width: 50%;
+  height: auto;
+}
+.card-body{
+  width: fit-content;
+
+}
+.card{
+  width: 50%;
+ 
+}
+.col{
+  align-items: center;
+  justify-content: center;
+}

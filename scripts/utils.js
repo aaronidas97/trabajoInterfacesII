@@ -1,7 +1,7 @@
 
 
 
-export  function fetchDataFromUrl(url) {
+export  function fethListaRazas(url) {
     return fetch(url)
         .then(response => response.json())
         .then(data => {
