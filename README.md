@@ -68,8 +68,8 @@ Al utilizar la API Dog CEO, es importante considerar los posibles casos de error
 
 1. **Error en la URL**: Si escribimos incorrectamente el nombre de alguna raza en la URL de la petición, recibiremos un error 404 o un mensaje indicando que la ruta no fue encontrada.
 
-![Error1](\img\error1.png)
-![Error1(2)](\img\ejError1.png)
+![Error1](.\img\error1.png)
+![Error1(2)](.\img\ejError1.png)
 
 La imagen del perro aparece gracias a este pedazo de código:
 
