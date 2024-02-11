@@ -92,6 +92,7 @@ La imagen del perro aparece gracias a este pedazo de código:
 
 Además este error aparecerá también en consola:
 ![ErroConsola](img/errorConsola.png)
+
 Esto se debe concretamente a esta parte del código:
 
 ```javascript
