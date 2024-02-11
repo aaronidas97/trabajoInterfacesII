@@ -1,5 +1,5 @@
 
-import {fethListaRazas, getPerroRandom} from "./utils.js";
+import {fethListaRazas, getPerroRandom, capitalizarString} from "./utils.js";
 
 document.addEventListener("DOMContentLoaded",  () => {
 
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded",  () => {
 
                 let p_text = document.createElement("p");
                 p_text.className = "card-text";
-                p_text.innerText = raza;
+                p_text.innerText = capitalizarString(raza);
 
                 card_body.addEventListener("click", () =>{
 
